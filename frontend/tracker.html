@@ -3,26 +3,24 @@
 	<head>
 		<title>IIAS Spendings Tracker</title>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+		<script src="/tracker.js"></script>
 		<link rel="stylesheet" type="text/css" href="tracker.css">
-
 	</head>
 	<body>
 		<div id="submitter">
-			<select name="person">
-				<option value="ethan">Ethan</option>
+			<select id="person-picker" name="person">
+				<option value="Ethan">Ethan</option>
 				<option value="chunghao">chunghao</option>
-				<option value="mimi">Mimi</option>
-				<option value="taylor">Taylor</option>
-				<option value="yisi">Yi-Si</option>
-				<option value="yuching">Yu-Ching</option>
+				<option value="Mimi">Mimi</option>
+				<option value="Taylor">Taylor</option>
+				<option value="Yi-Si">Yi-Si</option>
+				<option value="Yu-Ching">Yu-Ching</option>
 			</select>
-			<input></input>
+			<input id="amount" placeholder="amount"></input>
+			<input id="reason" placeholder="reason"></input>
 			<button id="submit">submit</button>
 		</div>
 		<div id="records">
-			<div class="record">stuff stuff stuff</div>
-			<div class="record">stuff stuff stuff</div>
-			<div class="record">stuff stuff stuff</div>
 		</div>
 	</body>
 </html>
