@@ -1,0 +1,23 @@
+{
+  "name": "spendings",
+  "version": "1.0.0",
+  "description": "tracks spendings in IIAS",
+  "main": "main.js",
+  "dependencies": {
+    "@types/node": "^12.12.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethanlee515/IIAS-Spendings-Tracker.git"
+  },
+  "author": "Ethan Lee",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ethanlee515/IIAS-Spendings-Tracker/issues"
+  },
+  "homepage": "https://github.com/ethanlee515/IIAS-Spendings-Tracker#readme"
+}
