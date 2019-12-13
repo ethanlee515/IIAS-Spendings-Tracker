@@ -1,2 +1,2 @@
 # IIAS Spendings Tracker
-Built for a trip to Israel. Tracks spendings for bureaucracy purposes.
+Built for a trip to Israel. Helps track spendings for bureaucracy purposes.
