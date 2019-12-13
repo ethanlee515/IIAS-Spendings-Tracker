@@ -4,7 +4,13 @@
   "description": "tracks spendings in IIAS",
   "main": "main.js",
   "dependencies": {
-    "@types/node": "^12.12.17"
+    "@types/body-parser": "^1.17.1",
+    "@types/cors": "^2.8.6",
+    "@types/express": "^4.17.2",
+    "@types/node": "^12.12.17",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
   },
   "devDependencies": {},
   "scripts": {
