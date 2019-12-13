@@ -1,2 +1,2 @@
-# IIAS-Spendings-Tracker
-Tracks spending in the IIAS trip
+# IIAS Spendings Tracker
+Built for a trip to Israel. Tracks spendings.
